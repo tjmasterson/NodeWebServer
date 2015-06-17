@@ -1,0 +1,17 @@
+{
+  "name": "badges_webserver",
+  "version": "1.0.0",
+  "description": "\"node.js webserver to fit with pub/sub server\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"Taylor Masterson\"",
+  "license": "MIT",
+  "dependencies": {
+    "axon": "^2.0.1",
+    "express": "^4.12.4",
+    "request": "^2.57.0",
+    "socket.io": "^1.3.5"
+  }
+}
